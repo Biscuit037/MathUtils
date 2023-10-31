@@ -1,0 +1,12 @@
+{
+  "name": "com.biscuit037.mathutils",
+  "version": "1.0.0",
+  "displayName": "Math utilities for cash converter",
+  "description": "The package contains math utilities for cash converter",
+  "unity": "2022.3",
+  "author": {
+    "name": "Bisscuit",
+    "email": "bilkis02556@gmail.com",
+    "url": "",
+  }
+}
